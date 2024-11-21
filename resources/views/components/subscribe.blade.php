@@ -37,7 +37,7 @@
                     </div>
                     <div class="subscribe-links">
                         <ul>
-                            <li><a href="#"><i class="lni lni-phone-set"></i> <span>+034895903478</span> </a> </li>
+                            <li><a href="#"><i class="lni lni-phone-set"></i> <span>+212 6 19 92 09 42</span> </a> </li>
                             <li><a href="#"><i class="lni lni-facebook-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-twitter-filled"></i></a></li>
                             <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
