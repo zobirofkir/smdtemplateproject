@@ -19,21 +19,21 @@
 </head>
 
 <body>
-    <div>
-        @include('components.header')
-    </div>
-
     <div class="slider-wrapper">
+
+        @include('components.header')
+    
         <main>
             {{ $slot }}
         </main>
+
+        <a href="#" class="scroll-top">
+            <i class="lni lni-arrow-up"></i>
+        </a>
+    
+        @include('components.footer')    
     </div>
 
-    <a href="#" class="scroll-top">
-        <i class="lni lni-arrow-up"></i>
-    </a>
-
-    @include('components.footer')
 
     <script src="{{ asset('assets/js/bootstrap.bundle-5.0.0.alpha-min.js') }}"></script>
     <script src="{{ asset('assets/js/contact-form.js') }}"></script>
