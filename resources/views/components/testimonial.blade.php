@@ -122,7 +122,7 @@
                         <ul class="thumbnails d-flex justify-content-center" id="customize-thumbnails">
                             @foreach ([1, 2, 3, 4, 5] as $data)
                                 <li class="testimonial-img">
-                                    <img src="assets/img/testimonial/testimonial-1.png" alt="">
+                                    <img src="assets/img/testimonial/testimonial-{{ $loop->index + 1 }}.png" alt="">
                                 </li>
                             @endforeach
                         </ul>
