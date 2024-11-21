@@ -29,7 +29,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <nav class="navbar navbar-expand-lg">
-                                <a class="navbar-brand" href="#">
+                                <a class="navbar-brand" href="{{url('/')}}">
                                     <img src="assets/img/logo/logo.png" height="50"  alt="Logo">
                                 </a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -42,22 +42,22 @@
                                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                     <ul id="nav" class="navbar-nav ml-auto">
                                         <li class="nav-item active">
-                                            <a class="page-scroll active" href="#home">Accueil</a>
+                                            <a class="active" href="{{url('/')}}">Accueil</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="page-scroll" href="#about">À propos</a>
+                                            <a href="{{url('/abouts')}}">À propos</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="page-scroll" href="#services">Services</a>
+                                            <a href="{{url('/services')}}">Services</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="page-scroll" href="#team">Médecins</a>
+                                            <a href="{{url('/doctors')}}">Médecins</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="page-scroll" href="#blog">Blog</a>
+                                            <a href="{{url('/blogs')}}">Blog</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="page-scroll" href="#contact">Contact</a>
+                                            <a href="{{url('/contacts')}}">Contact</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -1,6 +1,6 @@
 <x-app-layout>
-	<!-- ========================= preloader start ========================= -->
-	<div class="preloader">
+
+    <div class="preloader">
 		<div class="loader">
 			<div class="ytp-spinner">
 				<div class="ytp-spinner-container">
@@ -16,7 +16,6 @@
 			</div>
 		</div>
 	</div>
-	<!-- preloader end -->
 
     <section>
         @include('components.slider')
@@ -42,7 +41,7 @@
     </section>
     
     <section>
-        @include('components.teams')
+        @include('components.doctors')
     </section>
 
     <section>
@@ -50,7 +49,7 @@
     </section>
 
     <section>
-        @include('components.blog')
+        @include('components.blogs')
     </section>
 
     <section>

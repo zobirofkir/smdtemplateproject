@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>{{config("app.name")}}</title>
+	<title>{{ $title ?? config("app.name")}}</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="{{asset("assets/css/bootstrap-5.0.5-alpha.min.css")}}">
@@ -35,7 +35,7 @@
 	</a>
 
 	@include('components.footer')
-	<!-- ========================= JS here ========================= -->
+
 	<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/bootstrap.bundle-5.0.0.alpha-min.js"></script>
 	<script src="{{asset('assets/js/contact-form.js')}}"></script>
 	<script src="{{asset('assets/js/selectr.min.js')}}"></script>
