@@ -1,3 +1,5 @@
 <x-app-layout title="Abouts">
-    @include('components.abouts')
+    <div>
+        @include('components.abouts')
+    </div>
 </x-app-layout>

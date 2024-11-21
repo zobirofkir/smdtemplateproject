@@ -26,22 +26,6 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-6">
-                                <select name="doctor" id="doctor">
-                                    <option value="">Sélectionner un médecin</option>
-                                    <option value="">Dr. A k Smith</option>
-                                    <option value="">Dr. J H Deo</option>
-                                    <option value="">Dr. M A Khan</option>
-                                    <option value="">Dr. H M Nayeem</option>
-                                </select>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="single-form">
-                                    <input type="text" id="input_date" name="input_date" placeholder="Date du rendez-vous" required>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
                             <div class="col-md-12">
                                 <input type="text" name="subject" id="subject" placeholder="Objet" required>
                             </div>

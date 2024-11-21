@@ -23,7 +23,6 @@
         @include('components.header')
     </div>
 
-    <!-- Wrap the main content with the slider-wrapper class -->
     <div class="slider-wrapper">
         <main>
             {{ $slot }}
