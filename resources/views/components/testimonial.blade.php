@@ -120,21 +120,11 @@
                     </div>
                     <div class="customize-tools">
                         <ul class="thumbnails d-flex justify-content-center" id="customize-thumbnails">
-                            <li class="testimonial-img">
-                                <img src="assets/img/testimonial/testimonial-1.png" alt="">
-                            </li>
-                            <li class="testimonial-img">
-                                <img src="assets/img/testimonial/testimonial-2.png" alt="">
-                            </li>
-                            <li class="testimonial-img">
-                                <img src="assets/img/testimonial/testimonial-3.png" alt="">
-                            </li>
-                            <li class="testimonial-img">
-                                <img src="assets/img/testimonial/testimonial-4.png" alt="">
-                            </li>
-                            <li class="testimonial-img">
-                                <img src="assets/img/testimonial/testimonial-5.png" alt="">
-                            </li>
+                            @foreach ([1, 2, 3, 4, 5] as $data)
+                                <li class="testimonial-img">
+                                    <img src="assets/img/testimonial/testimonial-1.png" alt="">
+                                </li>
+                            @endforeach
                         </ul>
                     </div>
                 </div>
