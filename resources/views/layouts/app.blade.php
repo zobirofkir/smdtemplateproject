@@ -7,7 +7,6 @@
 	<title>{{config("app.name")}}</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" type="image/x-icon" href="{{asset("assets/img/logo/logo.png")}}">
 	<link rel="stylesheet" href="{{asset("assets/css/bootstrap-5.0.5-alpha.min.css")}}">
 	<link rel="stylesheet" href="{{asset("assets/css/LineIcons.2.0.css")}}">
 	<link rel="stylesheet" href="{{asset("assets/css/glightbox.min.css")}}">
