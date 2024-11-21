@@ -13,5 +13,5 @@ sliderWrapper.addEventListener('mousemove', function (e) {
 
     setTimeout(() => {
         ripple.remove();
-    }, 600); 
+    }, 600);
 });
