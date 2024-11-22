@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-app-layout title="Actualities">
     <div class="my-20">
         @include('components.actualities')
     </div>
