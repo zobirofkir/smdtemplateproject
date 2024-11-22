@@ -26,14 +26,6 @@
     </section>
 
     <section>
-        @include('components.we-do')
-    </section>
-
-    <section>
-        @include('components.abouts')
-    </section>
-
-    <section>
         @include('components.services')
     </section>
 

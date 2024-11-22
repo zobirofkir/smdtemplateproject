@@ -6,6 +6,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/actualities', function () {
+    return view('pages.actualities.actuality');
+});
+
+
 Route::get('/abouts', function() {
     return view('pages.abouts.about');
 });

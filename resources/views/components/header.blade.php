@@ -38,11 +38,14 @@
                                     <span class="toggler-icon"></span>
                                     <span class="toggler-icon"></span>
                                 </button>
-            
+
                                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                     <ul id="nav" class="navbar-nav ml-auto">
                                         <li class="nav-item active">
                                             <a class="active" href="{{url('/')}}">Accueil</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="{{url('/actualities')}}">Actualities</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="{{url('/abouts')}}">À propos</a>
@@ -65,6 +68,6 @@
                         </div>
                     </div>
                 </div>
-            </div> 
+            </div>
     </div>
 </header>
