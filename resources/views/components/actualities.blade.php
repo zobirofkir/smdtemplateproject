@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="cs_about_image">
-                    <img src="https://smneurologie.org/img/jmn/jpn2024.jpg" alt="Congrès Image" class="img-fluid">
+                    <img src="{{asset('assets/img/affiche/affiche.jpeg')}}" alt="Congrès Image" class="img-fluid">
                 </div>
             </div>
         </div>
