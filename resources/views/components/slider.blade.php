@@ -2,7 +2,7 @@
 
     <section class="slider-section">
         <div class="slider-active slick-style">
-            <div class="single-slider img-bg" style="background: rgb(188, 255, 188)">
+            <div class="single-slider img-bg" style="background: #6dd6ff">
                 <div class="container">
                     <div class="row">
                         <div class="d-flex align-items-center justify-content-between w-100 col-xl-7 col-lg-8 col-md-10">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-slider img-bg" style="background: rgb(188, 255, 188)">
+            <div class="single-slider img-bg" style="background: #6dd6ff">
                 <div class="container">
                     <div class="row">
                         <div class="d-flex align-items-center justify-content-between w-100 col-xl-7 col-lg-8 col-md-10">
@@ -54,7 +54,7 @@
                     </div>
                 </div>
             </div>
-            <div class="single-slider img-bg" style="background: rgb(188, 255, 188)">
+            <div class="single-slider img-bg" style="background: #6dd6ff">
                 <div class="container">
                     <div class="row">
                         <div class="d-flex align-items-center justify-content-between w-100 col-xl-7 col-lg-8 col-md-10">

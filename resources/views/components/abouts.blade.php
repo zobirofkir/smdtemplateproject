@@ -52,7 +52,7 @@
                 </p>
 
                 <div class="text-center">
-                    <a href="#" class="btn theme-btn wow fadeInUp text-center" data-wow-delay=".8s">En savoir plus</a>
+                    <a href="/abouts" class="btn theme-btn wow fadeInUp text-center" data-wow-delay=".8s">En savoir plus</a>
                 </div>
 
             </div>
