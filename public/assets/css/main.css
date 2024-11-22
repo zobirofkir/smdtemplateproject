@@ -2612,6 +2612,12 @@ p {
 
 
 
+@media (max-width: 768px) {
+    .logo_right {
+        display: none;
+    }
+}
+
 
 
 

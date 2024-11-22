@@ -1,3 +1,4 @@
+
 <div class="slider-wrapper">
 
     <section class="slider-section">
@@ -22,7 +23,7 @@
                             </div>
 
                             <div>
-                                <img src="{{asset('assets/img/logo/logo.png')}}" alt="">
+                                <img src="{{asset('assets/img/logo/logo.png')}}" class="logo_right" alt="">
                             </div>
                         </div>
                     </div>
@@ -48,7 +49,7 @@
                             </div>
 
                             <div>
-                                <img src="{{asset('assets/img/logo/logo.png')}}" alt="">
+                                <img src="{{asset('assets/img/logo/logo.png')}}" class="logo_right" alt="">
                             </div>
                         </div>
                     </div>
@@ -74,7 +75,7 @@
                             </div>
 
                             <div>
-                                <img src="{{asset('assets/img/logo/logo.png')}}" alt="">
+                                <img src="{{asset('assets/img/logo/logo.png')}}" class="logo_right" alt="">
                             </div>
                         </div>
                     </div>
