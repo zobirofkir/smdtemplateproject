@@ -26,6 +26,7 @@
             </div>
         </div>
     </div>
+    
     <div class="about-img text-center">
         <img src="assets/img/about/about-img.png" style="border-radius: 20px" alt="">
     </div>

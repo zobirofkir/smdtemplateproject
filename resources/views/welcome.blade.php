@@ -20,7 +20,11 @@
     <section>
         @include('components.slider')
     </section>
-    
+
+    <section>
+        @include('components.actualities')
+    </section>
+
     <section>
         @include('components.we-do')
     </section>
@@ -39,7 +43,7 @@
     <section>
         @include('components.faq')
     </section>
-    
+
     <section>
         @include('components.doctors')
     </section>
@@ -56,4 +60,4 @@
         @include('components.contact')
     </section>
 
-</x-app-layout> 
+</x-app-layout>

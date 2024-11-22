@@ -40,7 +40,7 @@
 	// Get the navbar
 
 
-	// for menu scroll 
+	// for menu scroll
 	var pageLink = document.querySelectorAll('.page-scroll');
 
 	pageLink.forEach(elem => {
@@ -165,9 +165,13 @@
 		width: 300
 	});
 
-	//======== datepicker 
+	//======== datepicker
 	var picker = new Pikaday({
 		field: document.getElementById('input_date')
 	});
 
-})();	
+})();
+
+
+
+
