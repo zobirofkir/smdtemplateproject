@@ -1,3 +1,3 @@
-<x-app-layout title="Doctors">
+<x-app-layout title="Médecins">
     @include('components.doctors')
 </x-app-layout>
