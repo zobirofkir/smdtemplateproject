@@ -7,7 +7,7 @@
 4. we-do css
 5. about css
 6. service css
-7. testimonial css 
+7. testimonial css
 8. faq css
 9. team css
 10. subscribe css
@@ -16,7 +16,7 @@
 13. footer css
 ============================================ */
 /*===========================
-    COMMON css 
+    COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Raleway:300,400,500,600,600i,700,900&display=swap");
 html {
@@ -1277,7 +1277,7 @@ p {
 }
 
 /*===========================
-    HEADER css 
+    HEADER css
 ===========================*/
 .header {
   position: relative;
@@ -1756,7 +1756,7 @@ p {
 }
 
 /*===========================
-    About css 
+    About css
 ===========================*/
 .about-section {
   position: relative;
@@ -1857,7 +1857,7 @@ p {
 }
 
 /*===========================
-    Testimonial css 
+    Testimonial css
 ===========================*/
 .testimonial-section {
   position: relative;
@@ -2174,7 +2174,7 @@ p {
 }
 
 /*===========================
-    Team css 
+    Team css
 ===========================*/
 .team-section {
   position: relative;
@@ -2362,7 +2362,7 @@ p {
 }
 
 /*===========================
-    Blog css 
+    Blog css
 ===========================*/
 .blog-section {
   position: relative;
@@ -2410,7 +2410,7 @@ p {
 }
 
 /*===========================
-    Contact css 
+    Contact css
 ===========================*/
 .contact-section {
   position: relative;
@@ -2504,7 +2504,7 @@ p {
 }
 
 /*===========================
-    footer css 
+    footer css
 ===========================*/
 .footer .footer-widget-wrapper {
   margin-bottom: 30px;
@@ -2592,3 +2592,21 @@ p {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.text-white {
+    color: white;
+    white-space: wrap;
+}
+
+
+.row-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+}
+
