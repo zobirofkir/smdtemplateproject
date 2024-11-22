@@ -18,7 +18,7 @@
 	</div>
 
     <section>
-        @include('components.slider')
+        @include('components.sliders')
     </section>
 
     <section>
@@ -30,10 +30,10 @@
     </section>
 
     <section>
-        @include('components.testimonial')
+        @include('components.testimonials')
     </section>
     <section>
-        @include('components.faq')
+        @include('components.faqs')
     </section>
 
     <section>
@@ -41,7 +41,7 @@
     </section>
 
     <section>
-        @include('components.subscribe')
+        @include('components.subscribers')
     </section>
 
     <section>
@@ -49,7 +49,7 @@
     </section>
 
     <section>
-        @include('components.contact')
+        @include('components.contacts')
     </section>
 
 </x-app-layout>
