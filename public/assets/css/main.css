@@ -1640,8 +1640,8 @@ p {
   top: 0;
   left: 0;
   z-index: -1;
-  background-image: -webkit-gradient(linear, left top, right top, from(#8fd2ff), color-stop(70.76%, rgba(0, 173, 181, 0.11)), to(rgba(255, 255, 255, 0)));
-  background-image: linear-gradient(to right, #8fd2ff 0%, rgba(0, 173, 181, 0.11) 70.76%, rgba(255, 255, 255, 0) 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#ffffff), color-stop(70.76%, rgba(0, 173, 181, 0.11)), to(rgba(255, 255, 255, 0)));
+  background-image: linear-gradient(to right, #0099ff 0%, rgba(0, 173, 181, 0.11) 70.76%, rgba(255, 255, 255, 0) 100%);
 }
 
 .slider-section .single-slider .slider-content {

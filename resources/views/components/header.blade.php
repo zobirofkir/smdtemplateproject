@@ -45,7 +45,7 @@
                                             <a class="active" href="{{url('/')}}">Accueil</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/actualities')}}">Actualities</a>
+                                            <a href="{{url('/actualities')}}">Actualités</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="{{url('/abouts')}}">À propos</a>
