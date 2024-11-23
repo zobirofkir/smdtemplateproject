@@ -2541,6 +2541,7 @@ p {
 
 .footer .footer-widget-wrapper .footer-widget .footer-social-links ul li {
   display: inline-block;
+
 }
 
 .footer .footer-widget-wrapper .footer-widget .footer-social-links ul li a {
@@ -2576,15 +2577,15 @@ p {
 
 .footer .copyright-area {
   padding: 25px 0;
-  border-top: 1px solid #8C96A7;
+  border-top: 1px solid #ffffff;
 }
 
 .footer .copyright-area a {
-  color: #8C96A7;
+  color: #ffffff;
 }
 
 .footer .copyright-area a:hover {
-  color: #8fd2ff;
+  color: #ffffff;
 }
 /*# sourceMappingURL=main.css.map */
 

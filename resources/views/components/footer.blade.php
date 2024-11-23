@@ -14,7 +14,7 @@
             </div>
         </div>
         <div class="copyright-area">
-            <p>Conçu et développé par <a href="https://zobirofkir.com/" rel="nofollow">Zobir Ofkir</a></p>
+            <p class="text-white">Conçu et développé par <a href="https://zobirofkir.com/" rel="nofollow">Zobir Ofkir</a></p>
         </div>
     </div>
 </footer>
