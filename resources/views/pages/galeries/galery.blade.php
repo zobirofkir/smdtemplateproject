@@ -1,3 +1,3 @@
 <x-app-layout title="Médecins">
-    @include('components.doctors')
+    @include('components.galeries')
 </x-app-layout>

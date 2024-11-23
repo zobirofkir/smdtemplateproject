@@ -16,17 +16,17 @@ Route::get('/abouts', function() {
 });
 
 
-Route::get('/services', function() {
-    return view('pages.services.service');
+Route::get('/events', function() {
+    return view('pages.events.event');
 });
 
 
-Route::get('/doctors', function() {
-    return view('pages.doctors.doctor');
+Route::get('/galeries', function() {
+    return view('pages.galeries.galery');
 });
 
-Route::get('/blogs', function() {
-    return view('pages.blogs.blog');
+Route::get('/login', function() {
+    return view('pages.auth.login');
 });
 
 

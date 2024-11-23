@@ -1,5 +1,5 @@
 <x-app-layout title="Blogs">
     <div class="my-20">
-        @include('components.blogs')
+        @include('components.login')
     </div>
-</x-app-layout> 
+</x-app-layout>

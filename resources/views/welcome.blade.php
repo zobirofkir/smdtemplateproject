@@ -26,7 +26,7 @@
     </section>
 
     <section>
-        @include('components.services')
+        @include('components.events')
     </section>
 
     <section>
@@ -37,15 +37,11 @@
     </section>
 
     <section>
-        @include('components.doctors')
+        @include('components.galeries')
     </section>
 
     <section>
         @include('components.subscribers')
-    </section>
-
-    <section>
-        @include('components.blogs')
     </section>
 
     <section>

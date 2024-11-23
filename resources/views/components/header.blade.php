@@ -51,13 +51,13 @@
                                             <a href="{{url('/abouts')}}">À propos</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/services')}}">Services</a>
+                                            <a href="{{url('/events')}}">Event</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/doctors')}}">Médecins</a>
+                                            <a href="{{url('/galeries')}}">Galerie</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/blogs')}}">Blog</a>
+                                            <a href="{{url('/login')}}" class="active ">Login</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="{{url('/contacts')}}">Contact</a>
