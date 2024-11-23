@@ -62,27 +62,28 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    gap: 20px;
+    gap: 15px; /* Reduced gap */
     margin-top: 20px;
+    align-items: flex-start; /* Ensure buttons do not stretch to full width */
 }
 
 .cs_btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 14px 30px;
+    padding: 10px 20px; /* Smaller padding */
     background-color: #007bff;
     color: #fff;
     text-decoration: none;
     border-radius: 50px;
-    font-size: 1rem;
+    font-size: 0.9rem; /* Reduced font size */
     font-weight: 600;
     transition: all 0.3s ease;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .cs_btn i {
-    margin-left: 10px;
+    margin-left: 8px;
     font-size: 1.2rem;
     transition: transform 0.3s ease;
 }
@@ -104,13 +105,21 @@
     background-color: #218838;
 }
 
+.cs_about_description {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555;
+    margin-top: 10px;
+    font-style: italic;
+}
+
 @media (max-width: 992px) {
     .cs_section_title {
         font-size: 2rem;
     }
     .cs_btn {
-        padding: 12px 25px;
-        font-size: 0.95rem;
+        padding: 8px 18px; /* Smaller padding */
+        font-size: 0.85rem; /* Reduced font size */
     }
 }
 
@@ -122,8 +131,8 @@
         font-size: 1.75rem;
     }
     .cs_btn {
-        font-size: 0.9rem;
-        padding: 10px 20px;
+        font-size: 0.8rem;
+        padding: 8px 16px; /* Further smaller padding */
     }
 }
 
@@ -136,7 +145,7 @@
         font-size: 1.5rem;
     }
     .cs_btn {
-        font-size: 0.85rem;
-        padding: 8px 18px;
+        font-size: 0.75rem;
+        padding: 6px 12px; /* Further reduced size */
     }
 }

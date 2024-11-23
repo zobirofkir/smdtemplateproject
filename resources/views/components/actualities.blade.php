@@ -13,6 +13,10 @@
                             <p>
                                 2023-2024 Congrés de la Société Marocaine de Diabétologie
                             </p>
+                            <!-- Custom description under the date -->
+                            <p class="cs_about_description">
+                                Bienvenue à cet événement prestigieux, réunissant des experts et professionnels dans le domaine du diabète pour partager des connaissances, des avancées et des solutions. Rejoignez-nous pour un moment inoubliable d'apprentissage et de collaboration.
+                            </p>
 
                             <div class="cs_btn_wrapper">
                                 <a href="path_to_program.pdf" class="cs_btn cs_btn_download" target="_blank">
