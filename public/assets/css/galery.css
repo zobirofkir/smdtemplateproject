@@ -1,0 +1,25 @@
+    .modal {
+        display: none;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .modal.open {
+        opacity: 1;
+    }
+
+    #imageModal .modal-body img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    .modal-content {
+        border-radius: 0;
+    }
+
+    .btn-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }

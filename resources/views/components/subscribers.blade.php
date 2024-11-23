@@ -1,4 +1,4 @@
-<section class="subscribe-section pt-100 pb-100 img-bg" style="background-image: url(assets/img/bg/subscribe-bg.jpg)">
+<section class="subscribe-section pt-100 pb-100 img-bg" style="background-image: url(assets/img/bg/subscribe-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-xl-7">

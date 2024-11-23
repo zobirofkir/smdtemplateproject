@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="{{ asset("assets/css/ripple.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/actualities.css") }}">
     <link rel="stylesheet" href="{{asset("assets/css/login.css")}}">
+    <link rel="stylesheet" href="{{ asset("assets/css/galery.css") }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
     <link rel="stylesheet" href="{{ asset("assets/css/main.css") }}">
 </head>
@@ -48,5 +49,6 @@
     <script src="{{ asset('assets/js/glightbox.min.js') }}"></script>
     <script src="{{ asset('assets/js/main.js') }}"></script>
 	<script src="{{ asset('assets/js/ripple.js') }}"></script>
+    <script src="{{ asset('assets/js/galery.js') }}"></script>
 </body>
 </html>

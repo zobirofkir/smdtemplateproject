@@ -37,15 +37,6 @@
     </section>
 
     <section>
-        @include('components.galeries')
-    </section>
-
-    <section>
         @include('components.subscribers')
     </section>
-
-    <section>
-        @include('components.contacts')
-    </section>
-
 </x-app-layout>
