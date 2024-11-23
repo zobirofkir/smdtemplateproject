@@ -1,0 +1,90 @@
+/* General footer styles */
+.footer {
+    background-image: url('assets/img/bg/footer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+    color: white;
+    background: #8fd2ff;
+    font: bold;
+}
+
+.footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Footer widget wrapper */
+.footer-widget-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+/* Footer links styles */
+.footer-links-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.footer-links li {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #ff7043; /* Light orange on hover */
+}
+
+/* Copyright section */
+.copyright-area {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.copyright-area p {
+    margin-bottom: 0;
+}
+
+.copyright-area a {
+    color: #ff7043;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.copyright-area a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .footer .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .footer-links {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .footer-links-wrapper {
+        justify-content: center;
+    }
+}

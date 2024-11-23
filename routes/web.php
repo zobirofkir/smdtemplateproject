@@ -35,6 +35,11 @@ Route::get('/contacts', function() {
 });
 
 
+Route::get('/faqs', function() {
+    return view('pages.faqs.faq');
+});
+
+
 
 
 

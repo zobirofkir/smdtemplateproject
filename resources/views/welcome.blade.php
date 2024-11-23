@@ -26,14 +26,7 @@
     </section>
 
     <section>
-        @include('components.events')
-    </section>
-
-    <section>
         @include('components.testimonials')
-    </section>
-    <section>
-        @include('components.faqs')
     </section>
 
     <section>

@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="{{ asset("assets/css/actualities.css") }}">
     <link rel="stylesheet" href="{{asset("assets/css/login.css")}}">
     <link rel="stylesheet" href="{{ asset("assets/css/galery.css") }}">
+    <link rel="stylesheet" href="{{ asset("assets/css/events.css") }}">
+    <link rel="stylesheet" href="{{ asset("assets/css/footer.css") }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
     <link rel="stylesheet" href="{{ asset("assets/css/main.css") }}">
 </head>
