@@ -29,7 +29,7 @@
         @include('components.testimonials')
     </section>
 
-    <section>
+    {{-- <section>
         @include('components.subscribers')
-    </section>
+    </section> --}}
 </x-app-layout>

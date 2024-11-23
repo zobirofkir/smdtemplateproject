@@ -1,4 +1,4 @@
-<section id="blog" class="blog-section pt-150">
+<section id="blog" class="blog-section pt-150 pb-150">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8 col-md-10">
