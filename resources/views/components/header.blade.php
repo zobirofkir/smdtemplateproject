@@ -57,7 +57,7 @@
                                             <a href="{{url('/galeries')}}">Galerie</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/login')}}" class="active ">Login</a>
+                                            <a href="{{url('/login')}}" class="cs_identification_btn">Identification</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="{{url('/contacts')}}">Contact</a>

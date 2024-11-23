@@ -8,7 +8,7 @@
                     <li><a href="{{url('/abouts')}}">À propos</a></li>
                     <li><a href="{{url('/events')}}">Événements</a></li>
                     <li><a href="{{url('/galeries')}}">Galerie</a></li>
-                    <li><a href="{{url('/login')}}">Connexion</a></li>
+                    <li><a href="{{url('/login')}}">Identification</a></li>
                     <li><a href="{{url('/contacts')}}">Contact</a></li>
                 </ul>
             </div>

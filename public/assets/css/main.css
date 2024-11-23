@@ -1503,7 +1503,7 @@ p {
 }
 
 .navbar-nav .nav-item a.active, .navbar-nav .nav-item a:hover {
-  color: #8fd2ff;
+  color: #0085ad;
 }
 
 .navbar-nav .nav-item:hover .sub-menu {
@@ -2619,6 +2619,23 @@ p {
     }
 }
 
+.cs_identification_btn {
+    background-color: rgb(124, 229, 255);
+    padding: 5px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #333;
+    transition: background-color 0.3s ease;
+}
 
+.cs_identification_btn:hover {
+    background-color: rgb(100, 210, 240);
+}
 
-
+@media (max-width: 768px) {
+    .cs_identification_btn {
+        display: none;
+        background: transparent;
+    }
+}
