@@ -10,11 +10,11 @@
                     <div class="main-video-card">
                         <a href="#" class="video-card-link" data-video-url="https://www.youtube.com/embed/video_id_1">
                             <div class="video-card-image">
-                                <img src="{{ asset('assets/img/videos/videos-1.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                                <img src="{{ asset('assets/img/videos/videos-1.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="video-card-details">
-                                <h2>Journée de Printemps de Neurologie 2023</h2>
-                                <p>Mai 4, 5, 6 2023</p>
+                                <h2>{{config('app.name')}}</h2>
+                                <p>Mai 4, 5, 6 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
                                 </div>
@@ -25,11 +25,11 @@
                     <div class="main-video-card">
                         <a href="#" class="video-card-link" data-video-url="https://www.youtube.com/embed/video_id_2">
                             <div class="video-card-image">
-                                <img src="{{ asset('assets/img/videos/videos-2.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                                <img src="{{ asset('assets/img/videos/videos-2.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="video-card-details">
-                                <h2>Journée de Printemps de Neurologie 2023</h2>
-                                <p>Mai 4, 5, 6 2023</p>
+                                <h2>{{config('app.name')}}</h2>
+                                <p>Mai 4, 5, 6 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
                                 </div>

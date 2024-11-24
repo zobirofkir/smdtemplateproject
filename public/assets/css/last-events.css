@@ -49,15 +49,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 400px;
+    overflow: hidden; /* Prevents the image from overflowing the container */
 }
 
 .main-event-card .event-card-image img {
     width: 100%;
-    height: 400px;
-    object-fit: cover;
+    height: 900px;
+    object-fit: contain; /* Show the full image */
     border-bottom: 1px solid #ddd;
     border-radius: 50px;
 }
+
 .main-event-card .event-card-details {
     padding: 15px;
     text-align: center;

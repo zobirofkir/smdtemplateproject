@@ -12,11 +12,11 @@
                     <div class="main-event-card">
                         <a href="#" class="event-card-link">
                             <div class="event-card-image">
-                                <img src="{{ asset('assets/img/last-events/last-event-1.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                                <img src="{{ asset('assets/img/last-events/last-event-1.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="event-card-details">
-                                <h2>Journée de Printemps de Neurologie 2023</h2>
-                                <p>Mai 4, 5, 6 2023</p>
+                                <h2>{{config('app.name')}}</h2>
+                                <p>Mai 4, 5, 6 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">
                                         <i class="fa-brands fa-linkedin fa-xl"></i>
@@ -35,11 +35,11 @@
                     <div class="main-event-card">
                         <a href="#" class="event-card-link">
                             <div class="event-card-image">
-                                <img src="{{ asset('assets/img/last-events/last-event-2.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                                <img src="{{ asset('assets/img/last-events/last-event-2.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="event-card-details">
-                                <h2>Journée de Printemps de Neurologie 2023</h2>
-                                <p>Mai 4, 5, 6 2023</p>
+                                <h2>{{config('app.name')}}</h2>
+                                <p>Mai 4, 5, 6 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">
                                         <i class="fa-brands fa-linkedin fa-xl"></i>

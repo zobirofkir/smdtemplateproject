@@ -1,7 +1,7 @@
 <section class="about-smd pt-120 pb-120">
     <div class="about-smd-container">
         <div class="image-container">
-            <img src="{{asset('assets/img/last-events/last-event-1.jpeg')}}" alt="Affiche" class="about-smd-image">
+            <img src="{{asset('assets/img/last-events/last-event-3.jpeg')}}" alt="Affiche" class="about-smd-image">
         </div>
 
         <div class="content-container">
