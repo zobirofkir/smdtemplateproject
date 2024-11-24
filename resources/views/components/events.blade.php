@@ -1,5 +1,5 @@
 <section id="events" class="service-section pt-150 pb-150">
-    <div class="px-5">
+    <div style="padding-left: 100px; padding-right: 100px;">
         <div class="mb-60">
             <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Evénements</h1>
         </div>

@@ -21,8 +21,8 @@ Route::get('/events', function() {
 });
 
 
-Route::get('/galeries', function() {
-    return view('pages.galeries.galery');
+Route::get('/galleries', function() {
+    return view('pages.galleries.gallery');
 });
 
 Route::get('/login', function() {

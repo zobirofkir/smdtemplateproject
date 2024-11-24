@@ -3,7 +3,7 @@
         <img src="assets/img/shapes/shape-2.svg" alt="">
     </div>
 
-    <div class="px-5">
+    <div style="padding-left: 100px; padding-right: 100px;">
         <div class="mb-60">
             <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">A Propos</h1>
         </div>

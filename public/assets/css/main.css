@@ -1762,6 +1762,8 @@ p {
 .about-section {
   position: relative;
   overflow: hidden;
+  padding-left: 100px ;
+  padding-right: 100px ;
 }
 
 .about-section .shape {
@@ -1781,6 +1783,8 @@ p {
 
 .service-section {
   position: relative;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .service-section .shape {

@@ -58,19 +58,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
-let zoomLevel = 1;
-const modalImage = document.getElementById('modalImage');
-const zoomInBtn = document.getElementById('zoomInBtn');
-const zoomOutBtn = document.getElementById('zoomOutBtn');
 
-zoomInBtn.addEventListener('click', (event) => {
-    event.stopPropagation(); // Prevent the modal click logic from triggering
-    zoomLevel += 0.1;
-    modalImage.style.transform = `scale(${zoomLevel})`;
-});
-
-zoomOutBtn.addEventListener('click', (event) => {
-    event.stopPropagation(); // Prevent the modal click logic from triggering
-    zoomLevel = Math.max(0.1, zoomLevel - 0.1);
-    modalImage.style.transform = `scale(${zoomLevel})`;
-});

@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{ asset("assets/css/ripple.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/actualities.css") }}">
     <link rel="stylesheet" href="{{asset("assets/css/login.css")}}">
-    <link rel="stylesheet" href="{{ asset("assets/css/galery.css") }}">
+    <link rel="stylesheet" href="{{ asset("assets/css/gallery.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/events.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/footer.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/last-events.css") }}">
@@ -53,6 +53,7 @@
     <script src="{{ asset('assets/js/glightbox.min.js') }}"></script>
     <script src="{{ asset('assets/js/main.js') }}"></script>
 	<script src="{{ asset('assets/js/ripple.js') }}"></script>
-    <script src="{{ asset('assets/js/galery.js') }}"></script>
+    <script src="{{ asset('assets/js/gallery.js') }}"></script>
+    <script src="{{ asset('assets/js/zoom.js') }}"></script>
 </body>
 </html>

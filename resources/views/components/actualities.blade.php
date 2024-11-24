@@ -1,5 +1,5 @@
 <section class="cs_about cs_style_1" id="mot-acc">
-    <div class="px-5">
+    <div style="padding-left: 100px; padding-right: 100px;">
         <div class="mb-60">
             <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Actualités</h1>
         </div>

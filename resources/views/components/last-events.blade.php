@@ -1,6 +1,6 @@
 <section>
     <div class="last-events">
-        <div class="px-5">
+        <div style="padding-left: 100px; padding-right: 100px;">
             <div class="events-header" style="text-align: center;">
                 Derniers événements
             </div>

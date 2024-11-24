@@ -12,6 +12,10 @@
     padding: 20px;
 }
 
+.album-container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
 
 .album-container h1 {
     margin-bottom: 20px;
