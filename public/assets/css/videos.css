@@ -73,6 +73,7 @@
 
 .social-links {
     margin-top: 10px;
+    margin-bottom: 10px;
     display: flex;
     justify-content: center;
     gap: 15px;
@@ -159,10 +160,9 @@
         object-fit: cover;
     }
 
-    .close {
+    .close-modal {
         font-size: 25px;  /* Make close button smaller */
         margin: 20px;
-        background-color: white;
         padding: 5px 5px;
         border-radius: 5px;
     }
@@ -179,7 +179,7 @@
         width: 95%;  /* Further reduce width for very small screens */
     }
 
-    .close {
+    .close-modal {
         font-size: 20px;  /* Smaller close button on very small screens */
         padding: 10px;
     }
