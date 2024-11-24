@@ -151,7 +151,7 @@
         font-size: 1.75rem;
     }
     .cs_btn {
-        font-size: 0.8rem;
+        font-size: 20px;
         padding: 8px 16px; /* Further smaller padding */
     }
 }
@@ -165,7 +165,7 @@
         font-size: 1.5rem;
     }
     .cs_btn {
-        font-size: 0.75rem;
-        padding: 6px 12px; /* Further reduced size */
+        font-size: 15px;
+        padding: 8px 16px; /* Further reduced size */
     }
 }

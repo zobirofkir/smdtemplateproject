@@ -37,20 +37,20 @@
     color: #1e3d58;
     font-weight: bold;
     text-align: left;
-    font-size: 2.5rem;
+    font-size: 55px;
     margin-bottom: 15px;
     line-height: 1.4;
 }
 
 .about-smd-subtitle {
     color: #8fd2ff;
-    font-size: 1.2rem;
+    font-size: 40px;
     margin-bottom: 20px;
     font-weight: 500;
 }
 
 .about-smd-description {
-    font-size: 1.15rem;
+    font-size: 25px;
     line-height: 1.8;
     color: #333;
 }
