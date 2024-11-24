@@ -51,10 +51,10 @@
                                             <a href="{{url('/abouts')}}">À propos</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/events')}}">Event</a>
+                                            <a href="{{url('/events')}}">Événements</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="{{url('/galeries')}}">Galerie</a>
+                                            <a href="{{url('/galleries')}}">Galerie</a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="{{url('/login')}}" >Identification</a>
