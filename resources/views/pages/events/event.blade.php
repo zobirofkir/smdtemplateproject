@@ -1,4 +1,4 @@
-<x-app-layout title="Services">
+<x-app-layout title="Evénements">
     <div>
         @include('components.events')
     </div>
