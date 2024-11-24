@@ -14,7 +14,7 @@
                             </div>
                             <div class="video-card-details">
                                 <h2>{{config('app.name')}}</h2>
-                                <p>Mai 4, 5, 6 2024</p>
+                                <p>16 Mai 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
                                 </div>
@@ -29,7 +29,7 @@
                             </div>
                             <div class="video-card-details">
                                 <h2>{{config('app.name')}}</h2>
-                                <p>Mai 4, 5, 6 2024</p>
+                                <p>16 Novembre 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
                                 </div>

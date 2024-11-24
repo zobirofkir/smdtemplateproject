@@ -16,7 +16,7 @@
                             </div>
                             <div class="event-card-details">
                                 <h2>{{config('app.name')}}</h2>
-                                <p>Mai 4, 5, 6 2024</p>
+                                <p>16 Mai 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">
                                         <i class="fa-brands fa-linkedin fa-xl"></i>
@@ -39,7 +39,7 @@
                             </div>
                             <div class="event-card-details">
                                 <h2>{{config('app.name')}}</h2>
-                                <p>Mai 4, 5, 6 2024</p>
+                                <p>16 Novembre 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">
                                         <i class="fa-brands fa-linkedin fa-xl"></i>
