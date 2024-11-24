@@ -1,4 +1,4 @@
-<section class="testimonial-section pt-120 pb-150">
+<section class="testimonial-section pt-120 pb-60">
     <div class="shape shape-4">
         <img src="assets/img/shapes/shape-4.svg" alt="">
     </div>

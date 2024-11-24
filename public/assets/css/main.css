@@ -1663,6 +1663,7 @@ p {
 @media (max-width: 767px) {
   .slider-section .single-slider .slider-content {
     padding: 100px 0px;
+    text-align: center;
   }
 }
 
