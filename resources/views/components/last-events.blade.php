@@ -1,20 +1,62 @@
-<section>
+<section class="last-events-section">
     <div class="last-events">
-        <div style="padding-left: 100px; padding-right: 100px;">
-            <div class="events-header" style="text-align: center;">
-                Derniers événements
+        <div>
+            <div class="events-header">
+                <h1>
+                    Événements
+                </h1>
+                <h3>
+                    Derniers Evénements
+                </h3>
             </div>
             <div class="events-body">
-                <div class="events-list">
-                    @foreach ([1, 2, 3, 4] as $event)
-                        <div class="event-card" style="background-image: url({{ asset('assets/img/album/album-2.jpeg') }});">
-                            <a href="#" class="event-card-link">
-                                <div class="event-card-description">
-                                    Lorem ipsum dolor sit amet consectetur
+                <div class="events-grid">
+                    <!-- Main Event Card -->
+                    <div class="main-event-card">
+                        <a href="#" class="event-card-link">
+                            <div class="event-card-image">
+                                <img src="{{ asset('assets/img/last-events/last-event-1.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                            </div>
+                            <div class="event-card-details">
+                                <h2>Journée de Printemps de Neurologie 2023</h2>
+                                <p>Mai 4, 5, 6 2023</p>
+                                <div class="social-links">
+                                    <a href="#" aria-label="LinkedIn">
+                                        <i class="fa-brands fa-linkedin fa-xl"></i>
+                                    </a>
+                                    <a href="#" aria-label="Twitter">
+                                        <i class="fa-brands fa-whatsapp fa-xl"></i>
+                                    </a>
+                                    <a href="#" aria-label="Facebook">
+                                        <i class="fa-brands fa-facebook fa-xl"></i>
+                                    </a>
                                 </div>
-                            </a>
-                        </div>
-                    @endforeach
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="main-event-card">
+                        <a href="#" class="event-card-link">
+                            <div class="event-card-image">
+                                <img src="{{ asset('assets/img/last-events/last-event-2.jpeg') }}" alt="Journée de Printemps de Neurologie 2023">
+                            </div>
+                            <div class="event-card-details">
+                                <h2>Journée de Printemps de Neurologie 2023</h2>
+                                <p>Mai 4, 5, 6 2023</p>
+                                <div class="social-links">
+                                    <a href="#" aria-label="LinkedIn">
+                                        <i class="fa-brands fa-linkedin fa-xl"></i>
+                                    </a>
+                                    <a href="#" aria-label="Twitter">
+                                        <i class="fa-brands fa-whatsapp fa-xl"></i>
+                                    </a>
+                                    <a href="#" aria-label="Facebook">
+                                        <i class="fa-brands fa-facebook fa-xl"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

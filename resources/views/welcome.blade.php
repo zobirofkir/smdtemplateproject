@@ -26,7 +26,7 @@
     </section>
 
     <section>
-        @include('components.testimonials')
+        @include('components.about-smd')
     </section>
 
     <section>
