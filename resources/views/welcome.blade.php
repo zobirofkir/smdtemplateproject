@@ -32,4 +32,8 @@
     <section>
         @include('components.last-events')
     </section>
+
+    <section>
+        @include('components.videos')
+    </section>
 </x-app-layout>

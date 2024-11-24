@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="{{ asset("assets/css/last-events.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/abouts.css") }}">
     <link rel="stylesheet" href="{{ asset("assets/css/about-smd.css") }}">
+    <link rel="stylesheet" href="{{asset("assets/css/videos.css")}}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
     <link rel="stylesheet" href="{{ asset("assets/css/main.css") }}">
 </head>
@@ -56,5 +57,6 @@
 	<script src="{{ asset('assets/js/ripple.js') }}"></script>
     <script src="{{ asset('assets/js/gallery.js') }}"></script>
     <script src="{{ asset('assets/js/zoom.js') }}"></script>
+    <script src="{{ asset('assets/js/videos.js') }}"></script>
 </body>
 </html>
