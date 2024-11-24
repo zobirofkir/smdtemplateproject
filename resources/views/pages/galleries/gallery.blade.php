@@ -1,3 +1,5 @@
 <x-app-layout title="Galeries">
-    @include('components.galleries')
+   <section>
+        @include('components.galleries')
+   </section>
 </x-app-layout>

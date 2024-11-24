@@ -12,11 +12,6 @@
     padding: 20px;
 }
 
-.album-container {
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
 .album-container h1 {
     margin-bottom: 20px;
     font-size: 2.5rem;
@@ -42,7 +37,7 @@
 
 @media screen and (max-width: 768px) {
     .gallery {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; /* Make gallery images span the full width */
         gap: 10px;
     }
 
@@ -52,7 +47,6 @@
 }
 
 /* Image Card Styles */
-
 .image-card {
     position: relative;
     background-color: transparent;
@@ -206,8 +200,12 @@
     top: 20px;
     right: 20px;
     font-size: 2rem;
-    color: #fff;
     cursor: pointer;
+    z-index: 999;
+    background-color: black;
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin-top: 150px;
 }
 
 @media screen and (max-width: 768px) {
@@ -224,5 +222,9 @@
 
     .zoom-controls {
         width: 150px;
+    }
+
+    .modal-content {
+        max-width: 90%; /* Adjust modal image size */
     }
 }
