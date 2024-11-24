@@ -99,6 +99,7 @@
 
 .cs_btn_download {
     background-color: #28a745;
+    font-size: 20px;
 }
 
 .cs_btn_download:hover {
@@ -106,7 +107,7 @@
 }
 
 .cs_about_description {
-    font-size: 1rem;
+    font-size: 20px;
     line-height: 1.6;
     color: #555;
     margin-top: 10px;

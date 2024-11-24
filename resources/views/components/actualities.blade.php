@@ -31,9 +31,6 @@
                                 <a href="path_to_program.pdf" class="cs_btn cs_btn_download" target="_blank">
                                     Télécharger le Programme <i class="fas fa-download"></i>
                                 </a>
-                                <a href="#mot-acc" class="cs_btn cs_btn_bienvenue">
-                                    Mot de Bienvenue
-                                </a>
                             </div>
                         </li>
                     </ul>
