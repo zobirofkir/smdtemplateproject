@@ -4,6 +4,9 @@
     </div>
 
     <div class="container">
+        <div class="mb-60">
+            <h1 style="color: #8fd2ff; font-weight: bold">A Propos</h1>
+        </div>
         <div class="row">
             <!-- Cards -->
             @foreach ([1, 2, 3, 4, 5, 6] as $item)

@@ -33,5 +33,7 @@
         @include('components.last-events')
     </section>
 
-    @include('components.subscribers')
+    <section>
+        @include('components.brands')
+    </section>
 </x-app-layout>

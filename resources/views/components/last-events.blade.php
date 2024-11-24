@@ -2,7 +2,7 @@
     <div class="last-events">
         <div class="events-container">
             <div class="events-header">
-                Last Events
+                Derniers événements
             </div>
             <div class="events-body">
                 <div class="events-list">

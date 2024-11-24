@@ -61,11 +61,12 @@
 }
 
 .events-header {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
     color: #8fd2ff;
-    font: bold;
+    font-weight: bold;
     padding: 10px;
+    white-space: nowrap;
     margin-bottom: 20px;
 }
 
