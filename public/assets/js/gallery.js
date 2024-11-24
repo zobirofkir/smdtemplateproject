@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const modal = document.getElementById("imageModal");
     const modalImage = document.getElementById("modalImage");
-    const closeModal = document.querySelector(".close-modal");
+    const closeModal = document.querySelector(".close-gallery");
     const prevButton = document.querySelector(".prev");
     const nextButton = document.querySelector(".next");
     const images = Array.from(document.querySelectorAll(".image-card img"));

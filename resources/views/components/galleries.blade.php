@@ -22,7 +22,7 @@
     </div>
 
     <div id="imageModal" class="modal">
-        <span class="close-modal">&times;</span>
+        <span class="close-gallery">&times;</span>
         <img class="modal-content" id="modalImage">
 
         <div class="controls">
