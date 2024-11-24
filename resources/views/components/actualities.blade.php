@@ -19,7 +19,7 @@
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                La Société Marocaine de diabétologie organise le 2eme congres de diabétologie
+                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie
                             </p>
                             <p class="cs_about_description">
                                 <b>

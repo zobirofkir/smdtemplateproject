@@ -8,7 +8,7 @@
                             <div class="header-top-left text-center text-md-left">
                                 <ul>
                                     <li><a href="#"><i class="lni lni-phone"></i> +212 6 19 92 09 42</a></li>
-                                    <li><a href="#"><i class="lni lni-envelope"></i> <span class="__cf_email__" data-cfemail="83ebe6efefeceee6e7eae0c3e4eee2eaefade0ecee">zobirofkir19@gmail.com</span></a></li>
+                                    <li><a href="#"><i class="lni lni-envelope"></i> <span class="__cf_email__" data-cfemail="83ebe6efefeceee6e7eae0c3e4eee2eaefade0ecee">smdiabete@gmail.com</span></a></li>
                                 </ul>
                             </div>
                         </div>
