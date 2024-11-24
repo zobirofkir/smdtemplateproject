@@ -195,17 +195,16 @@
     background-color: rgba(0, 0, 0, 0.8); /* Highlight on hover */
 }
 
-.close {
+.close-modal {
     position: absolute;
     top: 20px;
     right: 20px;
     font-size: 2rem;
     cursor: pointer;
     z-index: 999;
-    background-color: black;
     padding: 5px 5px;
     border-radius: 5px;
-    margin-top: 150px;
+    margin-top: 55px;
 }
 
 @media screen and (max-width: 768px) {

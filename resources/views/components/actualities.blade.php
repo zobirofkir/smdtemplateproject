@@ -15,11 +15,11 @@
                         <li>
                             <h3>{{ config('app.name') }}</h3>
                             <p>
-                                2023-2024 Congrés de la Société Marocaine de Diabétologie
+                                Chers Diabétologues
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                Bienvenue à cet événement prestigieux, réunissant des experts et professionnels dans le domaine du diabète pour partager des connaissances, des avancées et des solutions. Rejoignez-nous pour un moment inoubliable d'apprentissage et de collaboration.
+                                La Société Marocaine de diabétologie organise le 2eme congres de diabétologie du 22 au 25 Mai 2025
                             </p>
 
                             <div class="cs_btn_wrapper">
