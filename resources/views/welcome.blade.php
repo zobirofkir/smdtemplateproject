@@ -1,21 +1,21 @@
 <x-app-layout>
 
     <div class="preloader">
-		<div class="loader">
-			<div class="ytp-spinner">
-				<div class="ytp-spinner-container">
-					<div class="ytp-spinner-rotator">
-						<div class="ytp-spinner-left">
-							<div class="ytp-spinner-circle"></div>
-						</div>
-						<div class="ytp-spinner-right">
-							<div class="ytp-spinner-circle"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+        <div class="loader">
+            <div class="ytp-spinner">
+                <div class="ytp-spinner-container">
+                    <div class="ytp-spinner-rotator">
+                        <div class="ytp-spinner-left">
+                            <div class="ytp-spinner-circle"></div>
+                        </div>
+                        <div class="ytp-spinner-right">
+                            <div class="ytp-spinner-circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <section>
         @include('components.sliders')
@@ -29,7 +29,9 @@
         @include('components.testimonials')
     </section>
 
-    {{-- <section>
-        @include('components.subscribers')
-    </section> --}}
+    <section>
+        @include('components.last-events')
+    </section>
+
+    @include('components.subscribers')
 </x-app-layout>

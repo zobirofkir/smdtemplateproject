@@ -1,0 +1,71 @@
+/* Section styling */
+#about {
+    padding-top: 120px;
+    background-color: #f8f9fa;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Shape styling */
+.shape-2 img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    width: 100px;
+    height: auto;
+    opacity: 0.1;
+}
+
+/* Card Container Styling */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Styling for individual cards */
+.card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    background-color: #fff;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-bottom: 5px solid #f1f1f1;
+}
+
+/* Card body styling */
+.card-body {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+/* Title Styling */
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    margin-top: 15px;
+}
+
+/* Responsive Layout for Cards */
+@media (max-width: 768px) {
+    .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
