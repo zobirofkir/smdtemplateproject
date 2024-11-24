@@ -67,12 +67,6 @@
     color: #222;
 }
 
-.main-video-card p {
-    font-size: 1rem;
-    color: #555;
-    margin: 0 0 15px;
-}
-
 .social-links {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -199,4 +193,13 @@
         padding-left: 15px;
         padding-right: 15px;
     }
+}
+
+
+.video-card-date {
+    font-size: 20px;
+    color: #555;
+    margin: 0 0 15px;
+    font-weight: 800;
+    margin-bottom: 20px;
 }
