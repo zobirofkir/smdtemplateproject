@@ -8,8 +8,7 @@
                 <div class="section-title text-center mb-55">
                     <span class="wow fadeInDown" data-wow-delay=".2s">Prendre rendez-vous</span>
                     <h2 class="mb-15 wow fadeInUp" data-wow-delay=".4s">Prenez rendez-vous maintenant</h2>
-                    <p class="wow fadeInLeft" data-wow-delay=".6s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                        dinonumy <br class="d-none d-lg-block"> eirmod tempor invidunt ut labore et dolore magn.</p>
+                    <p class="wow fadeInLeft" data-wow-delay=".6s">{{ config('app.name') }}</p>
                 </div>
             </div>
         </div>

@@ -14,8 +14,8 @@
 
 .album-container h1 {
     margin-bottom: 20px;
-    font-size: 2.5rem;
-    color: #8fd2ff;
+    font-size: 48px;
+    color: black;
     text-align: start;
     margin-bottom: 50px;
     font-size: bold;
@@ -42,7 +42,7 @@
     }
 
     .album-container h1 {
-        font-size: 2rem;
+        font-size: 48px;
     }
 }
 

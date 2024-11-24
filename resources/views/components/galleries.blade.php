@@ -1,7 +1,7 @@
 <section id="events" class="service-section pt-150 pb-150 album-page">
     <div class="album-container">
         <div class="mb-60">
-            <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Gallerie</h1>
+            <h1 style="color: black; font-weight: bold; text-align: center;">Gallerie</h1>
         </div>
 
         <div class="gallery">

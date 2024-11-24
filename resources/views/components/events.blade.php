@@ -1,7 +1,7 @@
 <section id="events" class="service-section pt-150 pb-150">
     <div >
         <div class="mb-60">
-            <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Evénements</h1>
+            <h1 style="color: black; font-weight: bold; text-align: center;">Evénements</h1>
         </div>
         <div class="row">
             @foreach ([1, 2, 3, 4, 5] as $key =>$event)
