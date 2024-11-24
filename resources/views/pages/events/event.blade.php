@@ -1,5 +1,5 @@
 <x-app-layout title="Services">
-    <div class="my-5">
+    <div>
         @include('components.events')
     </div>
 </x-app-layout>

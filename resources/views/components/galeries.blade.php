@@ -1,6 +1,9 @@
 <section id="events" class="service-section pt-150 pb-150 album-page">
     <div class="album-container">
-        <h1 class="album-title">Gallerie</h1>
+        <div class="mb-60">
+            <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Gallerie</h1>
+        </div>
+
         <div class="gallery">
             @foreach ([1, 2, 3, 4, 5] as $key => $item)
                 @php

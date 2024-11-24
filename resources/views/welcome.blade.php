@@ -32,8 +32,4 @@
     <section>
         @include('components.last-events')
     </section>
-
-    <section>
-        @include('components.brands')
-    </section>
 </x-app-layout>

@@ -1,7 +1,7 @@
 <section>
     <div class="last-events">
-        <div class="events-container">
-            <div class="events-header">
+        <div class="px-5">
+            <div class="events-header" style="text-align: center;">
                 Derniers événements
             </div>
             <div class="events-body">

@@ -1,5 +1,9 @@
 <section class="cs_about cs_style_1" id="mot-acc">
-    <div class="container">
+    <div class="px-5">
+        <div class="mb-60">
+            <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">Actualités</h1>
+        </div>
+
         <div class="row align-items-center flex-lg-row flex-column-reverse cs_gap_y_40">
             <div class="col-lg-6">
                 <div class="cs_about_content">

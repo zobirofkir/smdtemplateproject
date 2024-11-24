@@ -3,9 +3,9 @@
         <img src="assets/img/shapes/shape-2.svg" alt="">
     </div>
 
-    <div class="container">
+    <div class="px-5">
         <div class="mb-60">
-            <h1 style="color: #8fd2ff; font-weight: bold">A Propos</h1>
+            <h1 style="color: #8fd2ff; font-weight: bold; text-align: center;">A Propos</h1>
         </div>
         <div class="row">
             <!-- Cards -->
