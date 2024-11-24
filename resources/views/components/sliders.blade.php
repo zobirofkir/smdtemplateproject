@@ -62,7 +62,7 @@
                         </div>
 
                         <div>
-                            <img src="{{asset('assets/img/logo/logo.png')}}" style="background: white; border-radius: 100px" class="logo_right" alt="">
+                            <img src="{{asset('assets/img/logo/logo.png')}}" class="logo_right" alt="">
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                         </div>
 
                         <div>
-                            <img src="{{asset('assets/img/logo/logo.png')}}" style="background: white; border-radius: 100px" class="logo_right" alt="">
+                            <img src="{{asset('assets/img/logo/logo.png')}}" class="logo_right" alt="">
                         </div>
                     </div>
                 </div>
