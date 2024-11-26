@@ -44,7 +44,7 @@
                             <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">
                                 Société Morocaine
                                 <br>
-                                <b>de Diabète</b>
+                                <b>de Diabètologie</b>
                             </h1>
 
                             <h2 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s" class="text-white">
@@ -78,7 +78,7 @@
                             <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">
                                 Société Morocaine
                                 <br>
-                                <b>de Diabète</b>
+                                <b>de Diabètologie</b>
                             </h1>
 
                             <h2 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s" class="text-white">
