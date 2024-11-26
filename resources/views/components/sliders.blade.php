@@ -11,15 +11,15 @@
                                 <h1 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s">
                                     Société Morocaine
                                     <br>
-                                    <b>de Diabète</b>
+                                    <b>de Diabètologie</b>
                                 </h1>
 
                                 <h2 data-animation="fadeInDown" data-duration="1.5s" data-delay=".5s" class="text-white">
-                                    Moroccan Diabetes Society
+                                    Moroccan Diabetology Society
                                 </h2>
 
                                 <h3 data-animation="fadeInDown" style="margin-top: 20px" data-duration="1.5s" data-delay=".5s" class="text-white">
-                                    الجمعية المغربية لمرض السكري
+                                    الجمعية المغربية  لأمراض السكري
                                 </h3>
 
                                 <h4 data-animation="fadeInDown" data-duration="1.5s" style="margin-top: 20px" data-delay=".5s" class="text-white">
