@@ -19,11 +19,11 @@
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie.
+                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie
                             </p>
                             <p class="cs_about_description">
                                 <b>
-                                    du 22 au 25 Mai 2025
+                                    du 22 au 25 Mai 2025 . 
                                 </b>
                             </p>
 
