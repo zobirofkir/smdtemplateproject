@@ -23,7 +23,7 @@
                     </div>
 
                     <div class="main-video-card">
-                        <a href="#" class="video-card-link" data-video-url="https://www.youtube.com/embed/video_id_2">
+                        <a href="#" class="video-card-link" data-video-url="https://www.youtube.com/embed/aBtaq1r8TM4">
                             <div class="video-card-image">
                                 <img src="{{ asset('assets/img/videos/videos-2.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
