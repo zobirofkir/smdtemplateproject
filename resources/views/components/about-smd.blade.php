@@ -6,10 +6,10 @@
 
         <div class="content-container">
             <h1 class="about-smd-title">A Propos De Nous</h1>
-            <h3 class="about-smd-subtitle">Société Morocaine de Diabètologie</h3>
+            <h3 class="about-smd-subtitle">Société Morocaine de Diabétologie</h3>
             <p class="about-smd-description">
                 La Société Marocaine de Diabétologie (SMD) est une association à but non lucratif des diabétologues marocains,
-                dont le rôle est d’assurer la formation continue dans le domaine de la diabètologie.
+                dont le rôle est d’assurer la formation continue dans le domaine de la Diabétologie.
             </p>
         </div>
     </div>

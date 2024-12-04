@@ -11,15 +11,15 @@
                         <h2 class="cs_section_title">Mot de bienvenue</h2>
                         <div class="cs_divider"></div>
                     </div>
-                    <ul class="cs_about_text_list">
+                    <ul class="cs_about_text_list ">
                         <li>
                             <h3>{{ config('app.name') }}</h3>
-                            <p>
-                                Chers Diabétologues
+                            <p class="mt-20">
+                                Chers Amis
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie
+                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie.
                             </p>
                             <p class="cs_about_description">
                                 <b>
@@ -28,7 +28,7 @@
                             </p>
 
                             <div class="cs_btn_wrapper">
-                                <a href="path_to_program.pdf" class="cs_btn cs_btn_download" target="_blank">
+                                <a href="#" class="cs_btn cs_btn_download" target="_blank">
                                     Télécharger le Programme <i class="fas fa-download"></i>
                                 </a>
                             </div>
