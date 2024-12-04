@@ -5,7 +5,7 @@
         </div>
 
         <div class="gallery">
-            @foreach ([1, 2, 3, 4, 5] as $key => $item)
+            @foreach (range(1, 1000) as $key => $item)
                 @php
                     $imagePath = public_path('assets/img/album/album-' . ($key + 1) . '.jpeg');
                 @endphp
