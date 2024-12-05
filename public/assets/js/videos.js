@@ -10,19 +10,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 const videoUrl = link.getAttribute("data-video-url");
                 videoFrame.src = videoUrl;
                 modal.classList.remove("hidden");
-                modal.style.display = "block";
+                modal.style.display = "block"; // Ensure it's visible
             });
         });
 
         closeModalButton.addEventListener("click", function() {
-            modal.style.display = "none";
-            videoFrame.src = "";
+            modal.style.display = "none"; // Hide the modal
+            videoFrame.src = ""; // Stop the video
         });
 
         modal.addEventListener("click", function(event) {
             if (event.target === modal) {
-                modal.style.display = "none";
-                videoFrame.src = "";
+                modal.style.display = "none"; // Hide the modal
+                videoFrame.src = ""; // Stop the video
             }
         });
     }

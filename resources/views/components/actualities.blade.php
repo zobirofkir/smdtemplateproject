@@ -15,11 +15,11 @@
                         <li>
                             <h3>{{ config('app.name') }}</h3>
                             <p class="mt-20">
-                                Chers Amis ,
+                                Chers Amis,
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                La Société Marocaine de Diabétologie organise le 2 éme Congrés Annuel de
+                                La Société Marocaine de Diabétologie organise le 2 éme Congrés Annuel
                             </p>
                             <p class="cs_about_description">
                                 <b>

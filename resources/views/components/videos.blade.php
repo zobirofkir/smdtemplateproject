@@ -13,7 +13,7 @@
                                 <img src="{{ asset('assets/img/videos/videos-1.jpeg') }}" alt="{{ config('app.name') }}">
                             </div>
                             <div class="video-card-details">
-                                <h2>La Journée Mondiale du Diabète</h2>
+                                <h2>1er Congrès Nationale de Diabétologie</h2>
                                 <p class="video-card-date">16 Mai 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
@@ -28,7 +28,7 @@
                                 <img src="{{ asset('assets/img/videos/videos-2.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="video-card-details">
-                                <h2>{{config('app.name')}}</h2>
+                                <h2>La Journée Mondiale du Diabète</h2>
                                 <p class="video-card-date">16 Novembre 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
@@ -43,7 +43,7 @@
 </section>
 
 <!-- Modal for displaying the video -->
-<div id="customModal" class="modal hidden">
+<div id="customModal" class="modal hidden" style="display: none;"> <!-- Initially hidden -->
     <div class="modal-content">
         <span id="closeModal" class="close">&times;</span>
         <iframe id="videoFrame" style="border-radius: 20px;" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
