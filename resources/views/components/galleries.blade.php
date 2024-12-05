@@ -33,23 +33,6 @@
                 &gt;
             </div>
         </div>
-
-
-        <div class="zoom-controls">
-            <button id="zoomInBtn">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search-plus" viewBox="0 0 16 16">
-                    <path d="M11.742 10.742a6.5 6.5 0 1 0-1.415 1.415l3.5 3.5a1 1 0 0 0 1.415-1.415l-3.5-3.5zM12 7a5 5 0 1 1-10 0 5 5 0 0 1 10 0z"/>
-                    <path d="M8 4a.5.5 0 0 1 .5.5V6h1a.5.5 0 0 1 .5.5A.5.5 0 0 1 9.5 7h-2A.5.5 0 0 1 7 6.5a.5.5 0 0 1 .5-.5h1V4.5a.5.5 0 0 1 .5-.5z"/>
-                </svg>
-            </button>
-            <button id="zoomOutBtn">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search-minus" viewBox="0 0 16 16">
-                    <path d="M11.742 10.742a6.5 6.5 0 1 0-1.415 1.415l3.5 3.5a1 1 0 0 0 1.415-1.415l-3.5-3.5zM12 7a5 5 0 1 1-10 0 5 5 0 0 1 10 0z"/>
-                    <path d="M7 7h4a.5.5 0 0 1 .5.5A.5.5 0 0 1 11 8h-4a.5.5 0 0 1-.5-.5A.5.5 0 0 1 7 7z"/>
-                </svg>
-            </button>
-        </div>
-
     </div>
 </section>
 
