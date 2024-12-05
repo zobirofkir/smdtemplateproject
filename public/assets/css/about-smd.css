@@ -1,14 +1,14 @@
 .about-smd-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
     padding: 50px 20px;
     background-color: #ffffff;
     border-radius: 12px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
-    gap: 30px; /* Space between the image and content */
+    gap: 30px;
 }
 
 .about-smd-container:hover {
@@ -16,8 +16,9 @@
 }
 
 .image-container {
-    flex: 1 1 45%; /* Allowing flexibility, making it 45% width for larger screens */
-    max-width: 100%;
+    flex: 1 1 45%;
+    max-width: 45%;
+    min-width: 300px;
 }
 
 .about-smd-image {
@@ -30,61 +31,51 @@
 
 .content-container {
     flex: 1 1 50%;
-    max-width: 100%;
-    margin-left: 30px;
+    max-width: 50%;
+    min-width: 300px;
     text-align: left;
 }
 
 .about-smd-title {
     color: #1e3d58;
     font-weight: 600;
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-bottom: 15px;
     line-height: 1.4;
 }
 
 .about-smd-subtitle {
     color: #8fd2ff;
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 20px;
     font-weight: 500;
 }
 
 .about-smd-description {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     line-height: 1.8;
     color: #333;
     letter-spacing: 0.5px;
 }
 
+/* Responsive adjustments */
 @media (max-width: 1024px) {
     .about-smd-container {
         flex-direction: column;
         padding: 40px 15px;
     }
 
-    .image-container {
-        max-width: 100%;
-        margin-bottom: 20px;
-    }
-
+    .image-container,
     .content-container {
         max-width: 100%;
         text-align: center;
     }
 
     .about-smd-title {
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
-    .about-smd-description {
-        font-size: 1.1rem;
-        text-align: center;
-    }
-}
-
-@media (max-width: 768px) {
-    .about-smd-title {
+    .about-smd-subtitle {
         font-size: 1.8rem;
     }
 
@@ -93,9 +84,23 @@
     }
 }
 
+@media (max-width: 768px) {
+    .about-smd-title {
+        font-size: 2rem;
+    }
+
+    .about-smd-subtitle {
+        font-size: 1.6rem;
+    }
+
+    .about-smd-description {
+        font-size: 0.95rem;
+    }
+}
+
 @media (max-width: 480px) {
     .about-smd-title {
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 
     .about-smd-subtitle {
@@ -107,20 +112,77 @@
     }
 }
 
-
+/* Mission list styling */
 .about-smd-missions {
-    padding-left: 20px;
+    list-style: none;
+    padding-left: 0;
     margin-top: 20px;
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height: 1.6;
     color: #333;
+    counter-reset: mission-counter;
 }
 
 .about-smd-missions li {
-    margin-bottom: 10px;
+    position: relative;
+    padding-left: 60px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    background: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
-.about-smd-missions strong {
+.about-smd-missions li::before {
+    content: counter(mission-counter) ".";
+    counter-increment: mission-counter;
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1e3d58;
+    background: #8fd2ff;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-smd-missions li strong {
+    display: block;
     color: #1e3d58;
     font-weight: bold;
+    margin-left: 10%;
+}
+
+/* Responsive adjustments for mission list */
+@media (max-width: 768px) {
+    .about-smd-missions li {
+        padding-left: 50px;
+    }
+
+    .about-smd-missions li::before {
+        width: 35px;
+        height: 35px;
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .about-smd-missions li {
+        padding-left: 45px;
+    }
+
+    .about-smd-missions li::before {
+        width: 30px;
+        height: 30px;
+        font-size: 1rem;
+    }
 }

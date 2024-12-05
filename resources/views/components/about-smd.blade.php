@@ -15,11 +15,11 @@
                 Parmi nos principales missions, nous nous attachons à :
             </p>
             <ul class="about-smd-missions">
-                <li><strong>1. Assurer une formation continue et mise à jour pour les professionnels de la santé.</strong></li>
-                <li><strong>2. Promouvoir la recherche en diabétologie afin d’innover dans les méthodes de traitement.</strong></li>
-                <li><strong>3. Faciliter l’échange d’expertises et de connaissances entre les praticiens à travers des plateformes de communication et des événements dédiés.</strong></li>
-                <li><strong>4. Sensibiliser le grand public aux enjeux de la prévention et du traitement du diabète.</strong></li>
-                <li><strong>5. Fédérer les efforts des différents acteurs autour d'une vision commune du traitement et de la prise en charge du diabète.</strong></li>
+                <li><strong>Assurer une formation continue et mise à jour pour les professionnels de la santé.</strong></li>
+                <li><strong>Promouvoir la recherche en diabétologie afin d’innover dans les méthodes de traitement.</strong></li>
+                <li><strong>Faciliter l’échange d’expertises et de connaissances entre les praticiens à travers des plateformes de communication et des événements dédiés.</strong></li>
+                <li><strong>Sensibiliser le grand public aux enjeux de la prévention et du traitement du diabète.</strong></li>
+                <li><strong>Fédérer les efforts des différents acteurs autour d'une vision commune du traitement et de la prise en charge du diabète.</strong></li>
             </ul>
         </div>
     </div>

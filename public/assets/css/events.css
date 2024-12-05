@@ -1,5 +1,5 @@
 #events {
-    background-color: #f8f9fa;  /* Light background for contrast */
+    background-color: #f8f9fa;
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -8,18 +8,18 @@
     border-radius: 15px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: 100%;  /* Ensure cards have equal height */
+    height: 100%;
 }
 
 .card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Smooth shadow on hover */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
 
 .card-img-top {
     border-radius: 0;
     height: 250px;
-    object-fit: cover; /* Keep aspect ratio */
+    object-fit: cover; 
 }
 
 .card-body {
