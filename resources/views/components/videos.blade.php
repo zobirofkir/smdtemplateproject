@@ -14,7 +14,7 @@
                             </div>
                             <div class="video-card-details">
                                 <h2>1er Congrès Nationale de Diabétologie</h2>
-                                <p class="video-card-date">16 Mai 2024</p>
+                                <p class="video-card-date">Du 16 au 19 Mai 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
                                 </div>
