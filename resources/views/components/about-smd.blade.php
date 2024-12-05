@@ -1,4 +1,4 @@
-<section class="about-smd pt-120 pb-120">
+<section class="about-smd pt-20 pb-120">
     <div class="about-smd-container">
         <div class="image-container">
             <img src="{{asset('assets/img/last-events/about-smd.jpeg')}}" alt="Affiche" class="about-smd-image">
