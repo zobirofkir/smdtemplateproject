@@ -15,7 +15,7 @@
                                 <img src="{{ asset('assets/img/last-events/last-event-1.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="event-card-details">
-                                <h2>La Journée Mondiale du Diabète</h2>
+                                <h2>Première Congrès Nationale de Diabétologie</h2>
                                 <p class="event-card-date">16 Mai 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">
@@ -38,7 +38,7 @@
                                 <img src="{{ asset('assets/img/last-events/last-event-2.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="event-card-details">
-                                <h2>{{config('app.name')}}</h2>
+                                <h2>La Journée Mondiale du Diabète</h2>
                                 <p class="event-card-date">16 Novembre 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">

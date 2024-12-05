@@ -15,15 +15,15 @@
                         <li>
                             <h3>{{ config('app.name') }}</h3>
                             <p class="mt-20">
-                                Chers Amis
+                                Chers Amis ,
                             </p>
                             <!-- Custom description under the date -->
                             <p class="cs_about_description">
-                                La Société Marocaine de diabétologie organise le 2eme congrès de diabétologie
+                                La Société Marocaine de Diabétologie organise le 2 éme Congrés Annuel de
                             </p>
                             <p class="cs_about_description">
                                 <b>
-                                    du 22 au 25 Mai 2025 . 
+                                    du 22 au 25 Mai 2025 .
                                 </b>
                             </p>
 
