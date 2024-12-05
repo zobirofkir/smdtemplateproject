@@ -43,8 +43,8 @@
 </section>
 
 <!-- Modal for displaying the video -->
-<div id="customModal" class="modal hidden" style="display: none;"> <!-- Initially hidden -->
-    <div class="modal-content">
+<div id="customModal" class="custom-modal hidden">
+    <div class="custom-modal-content">
         <span id="closeModal" class="close">&times;</span>
         <iframe id="videoFrame" style="border-radius: 20px;" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
