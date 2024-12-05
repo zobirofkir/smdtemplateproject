@@ -15,7 +15,7 @@
                                 <img src="{{ asset('assets/img/last-events/last-event-1.jpeg') }}" alt="{{config('app.name')}}">
                             </div>
                             <div class="event-card-details">
-                                <h2>1er Congrès Nationale de Diabétologie</h2>
+                                <h2>1er Congrès National de Diabétologie</h2>
                                 <p class="event-card-date">Du 16 au 19 Mai 2024</p>
                                 <div class="social-links">
                                     <a href="#" aria-label="LinkedIn">

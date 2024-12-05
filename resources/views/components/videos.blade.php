@@ -13,7 +13,7 @@
                                 <img src="{{ asset('assets/img/videos/videos-1.jpeg') }}" alt="{{ config('app.name') }}">
                             </div>
                             <div class="video-card-details">
-                                <h2>1er Congrès Nationale de Diabétologie</h2>
+                                <h2>1er Congrès National de Diabétologie</h2>
                                 <p class="video-card-date">Du 16 au 19 Mai 2024</p>
                                 <div class="social-links">
                                     <i class="fa-solid fa-play fa-2xl"></i>
