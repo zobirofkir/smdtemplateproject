@@ -46,13 +46,13 @@
     align-items: center;
     min-height: 400px;
     max-height: 400px;
-    overflow: hidden; /* Prevents the image from overflowing the container */
+    overflow: hidden;
 }
 
 .main-video-card .video-card-image img {
     width: 100%;
     height: 100%;
-    object-fit: contain; /* Show the full image */
+    object-fit: contain;
     border-bottom: 1px solid #ddd;
     border-radius: 50px;
 }
